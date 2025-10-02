@@ -1,1 +1,1 @@
-# minador_ls
+modelo para el minador
