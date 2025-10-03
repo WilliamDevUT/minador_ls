@@ -7,11 +7,11 @@ pandas==2.2.2
 pygame==2.5.2
 tensorflow==2.10.1
 Flask==3.0.2
-protobuf
+protobuf;
 tables==3.9.2
 gTTS==2.5.1
 pygame==2.5.2
 PyQt5==5.15.9
-yt_dlp==0.6.1
+yt_dlp
 groq==0.2.0
 pydub==0.25.1

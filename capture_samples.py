@@ -25,7 +25,7 @@ def capture_samples(path, margin_frame=1, min_cant_frames=5, delay_frames=3):
     recording = False
     
     with Holistic() as holistic_model:
-        video = cv2.VideoCapture(0)
+        video = cv2.VideoCapture(5)
         
         while video.isOpened():
             ret, frame = video.read()
